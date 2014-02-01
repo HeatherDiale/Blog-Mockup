@@ -1,0 +1,23 @@
+
+.grid_1 { width: 47.5%; }   /*380px*/
+.grid_2 { width: 100%; }   /*800px*/
+
+
+.grid_1,
+.grid_2,
+ {
+	margin: 0 2% 1% 0;
+	display: block;
+}
+
+.alpha{margin-left:0px;}
+.omega{margin-right:0px;}
+
+.container{
+	width: 100%; 
+	max-width: 800px;
+	margin: auto;
+	padding: 2%;
+}
+
+.clear{clear:both;display:block;overflow:hidden;visibility:hidden;width:0;height:0}.clearfix:after{clear:both;content:' ';display:block;font-size:0;line-height:0;visibility:hidden;width:0;height:0}* html .clearfix,*:first-child+html .clearfix{zoom:1}

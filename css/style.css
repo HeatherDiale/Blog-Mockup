@@ -1,0 +1,165 @@
+body {
+	margin: auto;
+	font-family: "SourceSansPro", "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.7em;
+	text-align: left;
+	letter-spacing: 1px;
+	font-weight: 300;
+}
+
+body p {
+	padding-bottom: 4%;
+}
+
+a {
+	text-decoration: none;
+}
+
+.background_image {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.heading {
+	display: inline-block;
+	margin: auto;
+	width: 100%;
+}
+
+.meta {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.meta h4, .meta a {
+	float: left;
+}
+
+.meta h4 {
+	position: relative;
+	top: 8px;
+}
+	
+h1 {
+	width: 100%;
+	text-align: left;
+	color: black;
+	padding-bottom: 2.5%;
+	font-size:  240%;
+	clear: both;
+}
+
+
+h4 {
+	margin: 0;
+	color:#8c98a8; 
+	font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif;
+}
+
+.icons {
+	display: inline-block;
+	margin-top: 3.5%;
+}
+
+.icons, a{
+	text-align: center;
+}
+
+.twitter_icon {
+	position: relative;
+	top: 8px;
+}
+
+
+.footer {
+	margin-top: 3.5%;
+	border-top: solid thin lightgray;
+	border-bottom: solid thin lightgray;
+}
+
+.inside_box {
+	margin: auto;
+	width: 100%;
+	display: inline-block;
+}
+
+.details {
+	float: left;
+	padding-right: 3%;
+}
+
+.links a{
+	text-decoration: none;
+}
+
+.links {
+	float: left;
+}
+
+.links h4 {
+	font-size: 140%;
+	color: black;
+	font-weight: bolder;
+}
+
+.links a:visited {
+	color: red;
+}
+
+.author_bio {
+	float: right;
+	padding: 0;
+	margin: 0;
+}
+
+.author_bio p {
+	margin: 0;
+	font-size: 95%;
+	font-weight: 350;
+}
+
+.connect_icon {
+	text-align: center;
+	position: relative;
+	bottom: 24px;
+}
+
+.sub-footer {
+	background-color: lightgray;
+	padding: 0;
+}
+
+.page_tags {
+	display: inline-block;
+	width: 100%;
+	padding-bottom: 2%;
+	padding-top: 2%;
+} 
+.page_tags a:visited {
+	color: inherit;
+}
+
+.butter {
+	font-size: 130%;
+	float: left;
+}
+
+.seven {
+	font-size: 130%;
+	float: right;
+}
+
+.next-image {
+	padding-left: 20px;
+	position: relative;
+	top: 5px;
+}
+
+.prev-image {
+	padding-right: 20px;
+	position: relative;
+	top: 5px;
+}
